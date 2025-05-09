@@ -1,0 +1,3 @@
+HypixelAPI
+MojangAPI
+SkyblockAPI
